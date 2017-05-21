@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476781742 source:c:\users\korre\desktop\pls50e1\e1ask1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
